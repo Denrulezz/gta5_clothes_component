@@ -2068,8 +2068,10 @@ Watch 41 = p_lwrist_000
 RightWrist 9 = p_rwrist_000
 
 ------- mp_m_freemode_01_mp_m_tuner -------
-Parachute 90 = hand_000_u
-Parachute 91 = hand_001_u
+Parachute 90 = hand_000
+Parachute 91 = hand_001
+UnderCoat 180 = accs_000
+UnderCoat 180 = accs_001
 
 ------- DRAWABLE COUNTS ------- // not check
 Hat: 153
